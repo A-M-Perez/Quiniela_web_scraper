@@ -1,6 +1,6 @@
 # Argentinean "Quiniela"
 
-UFC .
+Quiniela .
 
 ## Project objective
 
@@ -19,6 +19,12 @@ This project aims to build a web scraper, using Python with BeautifulSoup, to fe
 
 - ***xx***: xxx
 - ***xx***: xxx
+
+
+Quiniela: https://www.nacionalloteria.com/argentina/quinielas.php
+
+number_interpretation_list: https://www.lanacion.com.ar/loterias/significado-de-suenos-y-numeros-para-loterias-y-quinielas-nid09042022/
+
 
 
 ## Repository overview / structure
